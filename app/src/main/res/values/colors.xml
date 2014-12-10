@@ -12,5 +12,5 @@
     <color name="status_bar">@color/black_sky</color>
     <color name="black_sky">#060608</color>
 
-    <color name="nav_drawer">#00695C</color>
+    <color name="nav_drawer">#00796B</color>
 </resources>

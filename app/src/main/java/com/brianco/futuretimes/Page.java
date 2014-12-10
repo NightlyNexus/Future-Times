@@ -18,6 +18,7 @@ public class Page implements Comparable<Page>, Serializable {
     private final int page;
 
     public Page(String pdfLink, String picLink, String transcriptLink, String contributor, String date, String publisher, String source, String creator, String description, String title, int volume, int page) {
+        android.util.Log.d("eric", "eric " + transcriptLink);
         this.pdfLink = pdfLink;
         this.picLink = picLink;
         this.transcriptLink = transcriptLink;
