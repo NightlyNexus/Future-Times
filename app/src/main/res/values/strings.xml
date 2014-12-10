@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Future Times</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_bar_title_page_list">Volume %1$d — %2$s</string>
+    <string name="action_bar_title_page">Page %1$d, Volume %2$d — %3$s</string>
+    <string name="link_to_pdf_text">Download PDF</string>
+
+    <string name="connect_text">Club meetings are held on the second Saturday of every month at 2pm at the meeting room of the Sandy Springs Library, 395 Mt Vernon, Hwy, Atlanta, GA. Meetings are free and open to the public. More details can be at <![CDATA[<a href="https://groups.yahoo.com/neo/groups/ASFS/info">our Yahoo! group</a>]]></string>
+    <string name="about_text">Future Times is the monthly publication for the Atlanta Science Fiction Society, a gathering of fans of science fiction, fantasy, and associated genres. The club meets monthly to discuss current events in the science fiction world. To learn more, visit <![CDATA[<a href="https://groups.yahoo.com/neo/groups/ASFS/">us online.</a>]]></string>
+
+    <!-- nav drawer sections -->
+    <string name="read">Read</string>
+    <string name="calendar">Calendar</string>
+    <string name="about">About</string>
+    <string name="connect">Connect</string>
+
+</resources>

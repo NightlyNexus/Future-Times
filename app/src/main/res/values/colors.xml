@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">@color/future_blue</color>
+    <color name="primary_color_translucent">@color/future_blue_translucent</color>
+    <color name="primary_color_translucent_pressed">@color/future_blue_translucent_pressed</color>
+    <color name="primary_dark_color">@color/future_blue_dark</color>
+    <color name="future_blue">#3F51B5</color>
+    <color name="future_blue_translucent">#883F51B5</color>
+    <color name="future_blue_translucent_pressed">#333F51B5</color>
+    <color name="future_blue_dark">#1A237E</color>
+
+    <color name="status_bar">@color/black_sky</color>
+    <color name="black_sky">#060608</color>
+
+    <color name="nav_drawer">#00695C</color>
+</resources>
